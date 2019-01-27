@@ -1,6 +1,4 @@
 module Fibonacci where
-
-
     fibonacci :: Integer -> Integer
     fibonacci n  | n == 0 = 0
                  | n == 1 = 1
